@@ -1,0 +1,29 @@
+determine winning card 
+play trick 
+trump card logic 
+player input 
+hide trump card logic 
+reveal trump card logic 
+determine winning card after trump card reveal 
+
+determine more mindi
+
+
+
+####(phases)####:
+create players
+initialize game 
+
+
+shuffle 
+deal 
+hide_trump_card
+-------------
+
+
+give deals to players 
+
+play trick
+player input
+
+reveal_trump_card
